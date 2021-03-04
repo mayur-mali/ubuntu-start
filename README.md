@@ -13,3 +13,7 @@ run this command :: wget https://dl.google.com/linux/direct/google-chrome-stable
 3 ) change dok on to center
 
 run this commad:: gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
+
+4 ) for reset password of mysql
+
+run this command:: ALTER USER 'root'@'localhost' IDENTIFIED BY 'root@123';
