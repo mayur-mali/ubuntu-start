@@ -9,3 +9,7 @@ run this command:: sudo add-apt-repository ppa:agornostal/ulauncher &&   sudo ap
 2 ) google chrome
 
 run this command :: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb
+
+3 ) change dok on to center
+
+run this commad:: gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
